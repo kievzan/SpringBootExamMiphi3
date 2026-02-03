@@ -221,9 +221,9 @@ HTTPS рекомендуется для продакшна
 
 **12. Мониторинг**.
 
-Eureka Dashboard: http://localhost:8761  
+Metrics: http://localhost:8080/actuator/metrics    
 Health Check: http://localhost:8080/actuator/health  
-Metrics: http://localhost:8080/actuator/metrics  
+Eureka Dashboard: http://localhost:8761  
 
 **13. Troubleshooting**.
 
